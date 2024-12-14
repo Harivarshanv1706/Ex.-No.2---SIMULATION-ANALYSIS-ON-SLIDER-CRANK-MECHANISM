@@ -45,9 +45,13 @@
 
 ## Output
 
+![EMPD   2](https://github.com/user-attachments/assets/0b3e67f5-af02-431b-b233-d8e19919872d)
+![EMPD    2](https://github.com/user-attachments/assets/83f638d5-2e92-4d83-bba5-59afb39ddeb4)
 
-### Name:
-### Register Number: 
+
+
+### Name:  HARI VARSHAN V
+### Register Number: 24002390
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
